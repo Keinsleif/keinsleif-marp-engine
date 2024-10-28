@@ -1,0 +1,35 @@
+{
+  "name": "keinsleif-marp-engine",
+  "version": "1.0.0",
+  "main": "engine.mjs",
+  "type": "module",
+  "license": "MIT",
+  "devDependencies": {
+    "@marp-team/marp-cli": "^3.4.0",
+    "markdown-it": "^14.1.0"
+  },
+  "dependencies": {
+    "@marp-team/marp-core": "^3.9.0",
+    "@mdit/plugin-abbr": "^0.12.0",
+    "@mdit/plugin-alert": "^0.12.0",
+    "@mdit/plugin-align": "^0.12.0",
+    "@mdit/plugin-attrs": "^0.12.0",
+    "@mdit/plugin-container": "^0.12.0",
+    "@mdit/plugin-demo": "^0.12.0",
+    "@mdit/plugin-figure": "^0.12.0",
+    "@mdit/plugin-footnote": "^0.12.0",
+    "@mdit/plugin-img-lazyload": "^0.12.0",
+    "@mdit/plugin-img-mark": "^0.12.0",
+    "@mdit/plugin-img-size": "^0.12.0",
+    "@mdit/plugin-ins": "^0.12.0",
+    "@mdit/plugin-mark": "^0.12.0",
+    "@mdit/plugin-ruby": "^0.12.0",
+    "@mdit/plugin-spoiler": "^0.12.0",
+    "@mdit/plugin-sub": "^0.12.0",
+    "@mdit/plugin-sup": "^0.12.0",
+    "@mdit/plugin-tab": "^0.12.0",
+    "@mdit/plugin-tasklist": "^0.12.0",
+    "markdown-it-table-captions": "^1.0.4",
+    "mermaid": "^10.9.1"
+  }
+}
